@@ -1,4 +1,4 @@
-AOS.init;
+AOS.init();
 //______SWIPER
 $(document).ready(function () {
     let swiper;
